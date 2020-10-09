@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+#score {
+  position: absolute;
+  left: 1%;
+
+}
+
+#timer {
+  position: absolute;
+  right: 1%;
+}
+
+#buttonArea {
+	text-align: center;
+	}
+
+#tellUser {
+  text-align: center;
+  font-weight: bold;
+}
+
+#start_button {
+  font-weight: bold;
+}
+
+#formArea {
+  text-align: center;
+}
+
+#subButton {
+  margin-top: 5px;
+}
+
+#myForm {
+  padding-top: 8px;
+  padding-bottom: 45px;
+}
